@@ -40,9 +40,3 @@ This project is completed as part of the **Data Science Internship** offered by 
 ---
 
 
----
-
-## ⭐ Acknowledgements
-
-Thanks to [Cognifyz Technologies](https://www.cognifyz.com) for providing this opportunity and valuable learning experience.
-
